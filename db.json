@@ -1,5 +1,31 @@
 {
     "emptyList": [],
+    "groupedItems":  [
+        {
+            "category": "nářadí",
+            "name": "šroubovák"
+        },
+        {
+            "category": "nářadí",
+            "name": "vrtačka"
+        },
+        {
+            "category": "nářadí",
+            "name": "kleště"
+        },
+        {
+            "category": "ovoce",
+            "name": "jablka"
+        },
+        {
+            "category": "ovoce",
+            "name": "hrušky"
+        },
+        {
+            "category": "ovoce",
+            "name": "švestky"
+        }
+    ],
     "users": [
         {
             "id": 1,
